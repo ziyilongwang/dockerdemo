@@ -3,7 +3,7 @@
 #
 # Dockerizing php-fpm: Dockerfile for building php-fpm images
 #
-FROM       zero/centos:7.1
+FROM       zero/centos:7.2
 MAINTAINER Zero <392572435@qq.com>
 
 # Set environment variable
